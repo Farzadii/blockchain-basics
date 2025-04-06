@@ -1,1 +1,2 @@
 Blockchain Basics
+Blockchain is a decentralized ledger.
