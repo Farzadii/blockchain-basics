@@ -1,3 +1,4 @@
 Blockchain Basics
 Blockchain is a decentralized ledger.
 It uses blocks to store data.
+Example: Bitcoin uses blockchain.
